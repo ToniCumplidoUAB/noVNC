@@ -40,6 +40,7 @@ parts:
         stage-packages:
             - bash
             - jq
+            - openssl
 
     websockify:
         source: https://github.com/novnc/websockify/archive/v0.11.0.tar.gz
